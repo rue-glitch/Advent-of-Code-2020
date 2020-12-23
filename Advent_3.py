@@ -45,3 +45,6 @@ def multiply_trees(file: TextIO) -> int:
     
     
     return num1, num2, num3, num4, num5
+
+
+# couldn't answer part 2 of the question as the bottom code didn't work. The location line is resulting in an error.
